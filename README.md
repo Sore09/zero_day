@@ -1,1 +1,1 @@
-My vagrant file
+My first vagrant
